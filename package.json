@@ -8,5 +8,8 @@
   },
   "author": "",
   "license": "ISC",
-  "description": "hello world"
+  "description": "hello world",
+  "dependencies": {
+    "@faker-js/faker": "^9.3.0"
+  }
 }
